@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hasyimmuarifin
 - 👀 I’m interested in Praying, Coding, Training, and Learning 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on Web and Mobile Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, C, and C++.
+- 💞️ I’m looking to collaborate on Web and Mobile App Development
 - 📫 How to reach me instagram.com/hasyimmuarifin._
 
 <!---
